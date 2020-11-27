@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/contactmanager/static/css/main.afd7172b.chunk.css",
-    "main.js": "/contactmanager/static/js/main.bfa71b12.chunk.js",
-    "main.js.map": "/contactmanager/static/js/main.bfa71b12.chunk.js.map",
+    "main.js": "/contactmanager/static/js/main.0ee100e1.chunk.js",
+    "main.js.map": "/contactmanager/static/js/main.0ee100e1.chunk.js.map",
     "runtime-main.js": "/contactmanager/static/js/runtime-main.3c761dfe.js",
     "runtime-main.js.map": "/contactmanager/static/js/runtime-main.3c761dfe.js.map",
     "static/css/2.1a02f21c.chunk.css": "/contactmanager/static/css/2.1a02f21c.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.1a02f21c.chunk.css",
     "static/js/2.6ca61864.chunk.js",
     "static/css/main.afd7172b.chunk.css",
-    "static/js/main.bfa71b12.chunk.js"
+    "static/js/main.0ee100e1.chunk.js"
   ]
 }
